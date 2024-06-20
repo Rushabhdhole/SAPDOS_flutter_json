@@ -1,0 +1,128 @@
+{
+  "user": {
+    "greeting": "Hello!",
+    "name": "Satish",
+    "avatar": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
+  },
+  "doctorsList": [
+    {
+      "doctorImage": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250",
+      "doctorName": "Dr. Emily White",
+      "specialization": "Dermatology",
+      "appointmentIcon": "https://example.com/icons/appointment1.png",
+      "price": 300
+    },
+    {
+      "doctorImage": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250",
+      "doctorName": "Dr. Michael Brown",
+      "specialization": "Neurology",
+      "appointmentIcon": "https://example.com/icons/appointment2.png",
+      "price": 600
+    },
+    {
+      "doctorImage": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250",
+      "doctorName": "Dr. Sarah Johnson",
+      "specialization": "Orthopedics",
+      "appointmentIcon": "https://example.com/icons/appointment3.png",
+      "price": 550
+    },
+    {
+      "doctorImage": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250",
+      "doctorName": "Dr. Chris Evans",
+      "specialization": "Gastroenterology",
+      "appointmentIcon": "https://example.com/icons/appointment4.png",
+      "price": 480
+    },
+    {
+      "doctorImage": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250",
+      "doctorName": "Dr. Lisa Adams",
+      "specialization": "Ophthalmology",
+      "appointmentIcon": "https://example.com/icons/appointment5.png",
+      "price": 350
+    },
+    {
+      "doctorImage": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250",
+      "doctorName": "Dr. Daniel Lee",
+      "specialization": "Psychiatry",
+      "appointmentIcon": "https://example.com/icons/appointment6.png",
+      "price": 400
+    },
+    {
+      "doctorImage": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250",
+      "doctorName": "Dr. Anna Scott",
+      "specialization": "Oncology",
+      "appointmentIcon": "https://example.com/icons/appointment7.png",
+      "price": 700
+    },
+    {
+      "doctorImage": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250",
+      "doctorName": "Dr. Robert Green",
+      "specialization": "Pulmonology",
+      "appointmentIcon": "https://example.com/icons/appointment8.png",
+      "price": 450
+    },
+    {
+      "doctorImage": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250",
+      "doctorName": "Dr. Laura Martinez",
+      "specialization": "Endocrinology",
+      "appointmentIcon": "https://example.com/icons/appointment9.png",
+      "price": 500
+    },
+    {
+      "doctorImage": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250",
+      "doctorName": "Dr. Kevin Johnson",
+      "specialization": "Rheumatology",
+      "appointmentIcon": "https://example.com/icons/appointment10.png",
+      "price": 420
+    },
+    {
+      "doctorImage": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250",
+      "doctorName": "Dr. Amy Brown",
+      "specialization": "Nephrology",
+      "appointmentIcon": "https://example.com/icons/appointment11.png",
+      "price": 530
+    },
+    {
+      "doctorImage": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250",
+      "doctorName": "Dr. Steven Davis",
+      "specialization": "Urology",
+      "appointmentIcon": "https://example.com/icons/appointment12.png",
+      "price": 490
+    },
+    {
+      "doctorImage": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250",
+      "doctorName": "Dr. Karen Wilson",
+      "specialization": "Hematology",
+      "appointmentIcon": "https://example.com/icons/appointment13.png",
+      "price": 580
+    },
+    {
+      "doctorImage": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250",
+      "doctorName": "Dr. James Brown",
+      "specialization": "Immunology",
+      "appointmentIcon": "https://example.com/icons/appointment14.png",
+      "price": 470
+    },
+    {
+      "doctorImage": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250",
+      "doctorName": "Dr. Susan Clark",
+      "specialization": "Geriatrics",
+      "appointmentIcon": "https://example.com/icons/appointment15.png",
+      "price": 320
+    },
+    {
+      "doctorImage": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250",
+      "doctorName": "Dr. William Lopez",
+      "specialization": "Infectious Disease",
+      "appointmentIcon": "https://example.com/icons/appointment16.png",
+      "price": 540
+    },
+    {
+      "doctorImage": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250",
+      "doctorName": "Dr. Patricia Lewis",
+      "specialization": "Allergy and Immunology",
+      "appointmentIcon": "https://example.com/icons/appointment17.png",
+      "price": 360
+    }
+  ]
+}

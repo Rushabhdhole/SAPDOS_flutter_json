@@ -1,0 +1,34 @@
+[
+    {
+      "patientUid": "1",
+      "patientName": "John Doe",
+      "age": 30,
+      "issueDescription": "High fever and cough",
+      "nextSteps": "Prescribed rest and medication",
+      "patientHistory": [
+        {"reportName": "Blood Test - 2023"},
+        {"reportName": "X-Ray - 2022"}
+      ],
+      "prescriptions": [
+        {"date": "2023-01-01", "medication": "Paracetamol"},
+        {"date": "2022-12-01", "medication": "Cough Syrup"}
+      ]
+    },
+    {
+      "patientUid": "2",
+      "patientName": "Jane Smith",
+      "age": 25,
+      "issueDescription": "Sprained ankle",
+      "nextSteps": "Physical therapy and rest",
+      "patientHistory": [
+        {"reportName": "MRI - 2022"},
+        {"reportName": "X-Ray - 2021"}
+      ],
+      "prescriptions": [
+        {"date": "2023-02-01", "medication": "Painkillers"},
+        {"date": "2022-12-15", "medication": "Anti-inflammatory"}
+      ]
+    }
+    
+  ]
+  
